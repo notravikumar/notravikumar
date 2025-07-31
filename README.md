@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on **Web Development**<br><br>- 🌱 I’m currently learning **JavaScript, React**<br><br>- 👯 I’m looking to collaborate on [To-Do List](https://www.codedex.io/projects/create-a-to-do-list-app-with-html-css-js)<br><br>- 👨‍💻 All of my projects are available at [notravikumar.github.io](notravikumar.github.io)<br><br>- 💬 Ask me about **Python, Django, Bootstrap, TailwindCSS**<br><br>- 📫 How to reach me **staravikr18@gmail.com**<br><br>- ⚡ Fun fact **I like Computers.**<br>
+<br>- 🔭 I’m currently working on **Frontend Development**<br><br>- 🌱 I’m currently learning **JavaScript, React**<br><br>- 👯 I’m looking to collaborate on [To-Do List](https://www.codedex.io/projects/create-a-to-do-list-app-with-html-css-js)<br><br>- 👨‍💻 All of my projects are available at [notravikumar.github.io](notravikumar.github.io)<br><br>- 💬 Ask me about **Python, JavaScript,Django, Bootstrap, TailwindCSS**<br><br>- 📫 How to reach me **staravikr18@gmail.com**<br><br>- ⚡ Fun fact **I like Problems.**<br>
 
 
 ## 🌐 Socials:
@@ -24,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=notravikumar&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
